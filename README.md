@@ -5,9 +5,7 @@
 Stealthily building high-performance backend systems, APIs, and automation. Focused on core runtime internals, shell scripting, and open-source collaboration.
 
 <p align="center">
-  <a href="https://t.me/shinobi_010">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+  <a href="mailto:admin@xeze.org">ayush@xeze.org</a>
 </p>
 
 ---
